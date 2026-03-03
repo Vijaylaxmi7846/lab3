@@ -11,5 +11,7 @@ public class EvenOdd {
         
     System.out.println("hi nextgen");
         
+        System.out.println("hi main");
+    
     }
 }
